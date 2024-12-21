@@ -94,10 +94,10 @@ This system can give inaccurate or incomplete information. It is intended for ed
 - [CollegeDunia](https://collegedunia.com/)
 
 ## Contributers:
-- [Dr.B. Arune Kumar]() - Incharge and Instructor
-- [P.M.SALMAN KHAN](https://github.com/PrashantChoudhary)
-- [Venkata Kowsic]()
-- [M. Kushal]()
-- [K Rutvik](https://github.com/PrashantChoudhary)
-- [P. Azam Khan](https://github.com/PrashantChoudhary)
-- [K. Bathul Sultana](https://github.com/PrashantChoudhary)
+- [Dr.B. Arune Kumar](https://www.linkedin.com/in/arunekumar/) - Incharge and Instructor
+- [P.M.SALMAN KHAN](https://www.linkedin.com/in/salmankhanpm786/)
+- [M. Kushal](https://www.linkedin.com/in/mandala-kushal-3382b1249/)
+- [Venkata Kowsic](https://www.linkedin.com/in/kowsic-nerella-1660a5253/)
+- [K Rutvik]
+- [P. Azam Khan]
+- [K. Bathul Sultana]
